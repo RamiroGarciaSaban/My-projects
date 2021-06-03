@@ -30,8 +30,8 @@ def run_jarvis():
     rec = listen()
     if 'reproduce' in rec:
         music = rec.replace('reproduce', '')
-        print("Reproducioendo " + music)
-        talk("Reproducioendo " + music)
+        print("Reproduciendo " + music)
+        talk("Reproduciendo " + music)
         pywhatkit.playonyt(music)
 
 if __name__ == '__main__':
