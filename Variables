@@ -1,0 +1,19 @@
+# Tipo de variables.
+
+# Variable tipo entero. (Son todos aquellos numeros enteros.)
+X = 5
+
+# Variable tipo float "Flotantes" (Osea que tienen punto.)
+pi = 3.14
+
+# Variables tipo String (Cadena de texto.)
+y = "Hola a todos, estoy aprendiendo a programar."
+
+# Booleanos. (True / False) Siempre se escriben con la primera letra en MAYUSCULA
+q = True
+
+# Variables nulas. (Sirven para refutar o negar.)
+variableNula = None
+
+# Si quieres imprir los valores utiliza el comando print()
+# print()
