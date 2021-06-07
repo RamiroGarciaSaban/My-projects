@@ -1,0 +1,14 @@
+# Creating variables and assigning values
+# ("Creación de variables y asignación de valores.")
+
+# Una variable es un sitio donde guardamos una determinada información.
+# En función del tipo de información que guardemos (texto, números, booleanas, etc.)
+
+# Ejemplo.
+# Define una variable con el valor de 5.
+
+variable = 5
+
+# Comprueba el valor de tu variable imprimiendola.
+
+print(variable)
